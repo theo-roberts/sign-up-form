@@ -1,4 +1,13 @@
 @font-face { font-family: NOCTADO; src: url('NOCTADO.otf'); } 
-p {
-   font-family: NOCTADO
+
+body {
+   font-family: NOCTADO;
+   display: flex;
+}
+
+.leftside{
+   background: url("bg-img1.jpeg") no-repeat 0px 0px;
+   background-size: 700px auto;
+   height: 700px;
+   width: 600px;
 }
