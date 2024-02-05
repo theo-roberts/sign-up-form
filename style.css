@@ -11,3 +11,10 @@ body {
    height: 700px;
    width: 600px;
 }
+
+h1{
+   float: right;
+   margin-top: 100px;
+   color: white;
+   font-size: 70px;
+}
