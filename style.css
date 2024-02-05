@@ -5,16 +5,16 @@ body {
    display: flex;
 }
 
-.leftside{
+.leftside {
    background: url("bg-img1.jpeg") no-repeat 0px 0px;
    background-size: 700px auto;
    height: 700px;
    width: 600px;
 }
 
-h1{
+h1, p {
    float: right;
-   margin-top: 100px;
+   margin-top: 10px;
    color: white;
    font-size: 70px;
 }
