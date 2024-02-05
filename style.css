@@ -18,3 +18,12 @@ h1{
    color: white;
    font-size: 70px;
 }
+
+.rightside {
+   justify-content: space-evenly;
+   margin: 100px;
+}
+
+.rightside div{
+   margin: 30px
+}
